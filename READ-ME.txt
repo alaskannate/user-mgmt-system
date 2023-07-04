@@ -1,0 +1,17 @@
+Here's a coding challenge for you in Node.js:
+
+Challenge: User Management System
+
+Create a simple user management system using Node.js. The system should have the following functionality:
+
+1. User Registration: Users can register by providing a unique username and password. Store the user details in a JSON file or a database of your choice.
+
+2. User Login: Users can log in using their username and password. Implement a login mechanism that verifies the provided credentials against the stored user data.
+
+3. User Authentication: Implement a middleware function that checks if a user is authenticated before allowing access to protected routes. The middleware should verify the presence of a valid authentication token in the request header or cookies.
+
+4. Protected Routes: Create a few protected routes that can only be accessed by authenticated users. For example, an endpoint that returns the user's profile information.
+
+You can use any libraries or frameworks of your choice to accomplish this task. Feel free to structure the code in a way that makes sense to you.
+
+Good luck! Let me know if you need any further clarification.
